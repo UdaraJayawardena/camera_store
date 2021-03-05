@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "camera_store", "camera_store\camera_store.csproj", "{9FDB82E9-AD4E-4042-A0D7-D7D66ED586C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		DBFile|Any CPU = DBFile|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FDB82E9-AD4E-4042-A0D7-D7D66ED586C7}.DBFile|Any CPU.ActiveCfg = DBFile|Any CPU
+		{9FDB82E9-AD4E-4042-A0D7-D7D66ED586C7}.DBFile|Any CPU.Build.0 = DBFile|Any CPU
+		{9FDB82E9-AD4E-4042-A0D7-D7D66ED586C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FDB82E9-AD4E-4042-A0D7-D7D66ED586C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FDB82E9-AD4E-4042-A0D7-D7D66ED586C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FDB82E9-AD4E-4042-A0D7-D7D66ED586C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98EE4119-7F1E-43B4-8B80-7A3318C858E9}
+	EndGlobalSection
+EndGlobal
